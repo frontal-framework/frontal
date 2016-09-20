@@ -3,7 +3,7 @@
   "description": "A simple and flexible framework for little and corporate websites",
   "type": "library",
   "require": {
-    "frontal-framework/framework": "dev-master"
+    "frontal-framework/http-foundation": "dev-master"
   },
   "license": "MIT",
   "autoload": {
