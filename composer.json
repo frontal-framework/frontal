@@ -1,0 +1,21 @@
+{
+  "name": "frontal-framework/frontal",
+  "description": "A simple and flexible framework for little and corporate websites",
+  "type": "library",
+  "require": {
+    "frontal-framework/framework": "dev-master"
+  },
+  "license": "MIT",
+  "autoload": {
+    "psr-4" : {
+      "App\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Kevin Dumont",
+      "email": "contact@kevindumont.fr"
+    }
+  ],
+  "minimum-stability": "dev"
+}
